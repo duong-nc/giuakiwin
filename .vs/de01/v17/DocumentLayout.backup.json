@@ -1,0 +1,129 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\doanwinforms\\de01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\models\\svdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:models\\svdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:models\\sinhvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|d:\\doanwinforms\\de01\\models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12698C36-232A-4774-9605-CD5A85AC7DA1}|de01.csproj|solutionrelative:models\\lop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sinhvien.cs",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Models\\Sinhvien.cs",
+              "RelativeDocumentMoniker": "Models\\Sinhvien.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Models\\Sinhvien.cs",
+              "RelativeToolTip": "Models\\Sinhvien.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:57:33.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lop.cs",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Models\\Lop.cs",
+              "RelativeDocumentMoniker": "Models\\Lop.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Models\\Lop.cs",
+              "RelativeToolTip": "Models\\Lop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:57:25.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:57:23.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SvDbContext.cs",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Models\\SvDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\SvDbContext.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Models\\SvDbContext.cs",
+              "RelativeToolTip": "Models\\SvDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:57:15.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Form1.Designer.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Form1.Designer.cs",
+              "RelativeToolTip": "Form1.Designer.cs",
+              "ViewState": "AgIAAKIAAAAAAAAAAAAlwLQAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:56:12.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\doanwinforms\\de01\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\doanwinforms\\de01\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T02:56:08.317Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

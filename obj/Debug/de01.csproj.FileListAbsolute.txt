@@ -1,0 +1,15 @@
+D:\doanwinforms\de01\bin\Debug\de01.exe.config
+D:\doanwinforms\de01\bin\Debug\de01.exe
+D:\doanwinforms\de01\bin\Debug\de01.pdb
+D:\doanwinforms\de01\bin\Debug\EntityFramework.dll
+D:\doanwinforms\de01\bin\Debug\EntityFramework.SqlServer.dll
+D:\doanwinforms\de01\bin\Debug\EntityFramework.xml
+D:\doanwinforms\de01\bin\Debug\EntityFramework.SqlServer.xml
+D:\doanwinforms\de01\obj\Debug\de01.csproj.AssemblyReference.cache
+D:\doanwinforms\de01\obj\Debug\de01.Form1.resources
+D:\doanwinforms\de01\obj\Debug\de01.Properties.Resources.resources
+D:\doanwinforms\de01\obj\Debug\de01.csproj.GenerateResource.cache
+D:\doanwinforms\de01\obj\Debug\de01.csproj.CoreCompileInputs.cache
+D:\doanwinforms\de01\obj\Debug\de01.csproj.Up2Date
+D:\doanwinforms\de01\obj\Debug\de01.exe
+D:\doanwinforms\de01\obj\Debug\de01.pdb
